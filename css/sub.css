@@ -1,0 +1,24 @@
+<style type="text/css">
+.submit {
+	-moz-box-shadow:inset 0px 6px 7px 4px #22ff00;
+	-webkit-box-shadow:inset 0px 6px 7px 4px #22ff00;
+	box-shadow:inset 0px 6px 7px 4px #22ff00;
+	background-color:#22ff00;
+	-moz-border-radius:42px;
+	-webkit-border-radius:42px;
+	border-radius:42px;
+	border:2px solid #000000;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:18px;
+	font-weight:bold;
+	padding:6px 37px;
+	text-decoration:none;
+}.submit:hover {
+	background-color:#15ff00;
+}.submit:active {
+	position:relative;
+	top:1px;
+}
+</style>
